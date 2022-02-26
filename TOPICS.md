@@ -50,7 +50,29 @@
 * Frame flooding
 * MAC address table
 
-## Network Access
+## Network Access (20%)
+#### Configure and verify VLANs (normal range) spanning multiple switches
+* Access ports (data and voice)
+* Default VLAN
+* Connectivity
+
+#### Configure and verify interswitch connectivity
+* Trunk ports
+* 802.1Q
+* Native VLAN
+
+#### Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP)
+#### Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)
+#### Describe the need for and basic operations of Rapid PVST+ Spanning Tree Protocol and identify basic operations
+* Root port, root bridge (primary/secondary), and other port names
+* Port states (forwarding/blocking)
+* PortFast benefits
+
+#### Compare Cisco Wireless Architectures and AP modes
+#### Describe physical infrastructure connections of WLAN components (AP,WLC, access/trunk ports, and LAG)
+#### Describe AP and WLC management access connections (Telnet, SSH, HTTP,HTTPS, console, and TACACS+/RADIUS)
+#### Configure the components of a wireless LAN access for client  connectivity using GUI only such as WLAN creation, security settings, QoS profiles, and advanced WLAN settings
+
 ## IP Connectivity
 ## IP Services
 ## Security Fundamentals
