@@ -12,6 +12,6 @@ The TCP/IP model is broadly defined over [RFC 1122](https://datatracker.ietf.org
 
 Traditonally TCP/IP was/is defined as [4 Layer Model](https://en.wikipedia.org/wiki/Internet_protocol_suite#layer_names_and_number_of_layers_in_the_literature), but more frequently/recently is being referenced seen as a 5 Layer Model [^CiscoPress]. This likely to make it easier to see the comparison with the OSI Model.
 
-![tcp_ip.png](https://github.com/johnsoga/CCNA/blob/main/assests/tcp_ip_4v5.svg)
+![tcp_ip_4v5.svg](https://github.com/johnsoga/CCNA/blob/main/assests/tcp_ip_4v5.svg)
 
 [^CiscoPress]: Odom, W., 2020. CCNA 200-301 official cert guide. San Jose, CA: Cisco Press.
