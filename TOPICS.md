@@ -101,6 +101,37 @@
 * Router ID
 
 #### Describe the purpose of first hop redundancy protocol
-## IP Services
-## Security Fundamentals
-## Automation and Programmability
+
+## IP Services (10%)
+#### Configure and verify inside source NAT using static and pools
+#### Configure and verify NTP operating in a client and server mode
+#### Explain the role of DHCP and DNS within the network
+#### Explain the function of SNMP in network operations
+#### Describe the use of syslog features including facilities and levels
+#### Configure and verify DHCP client and relay
+#### Explain the forwarding per-hop behavior (PHB) for QoS such as classification, marking, queuing, congestion, policing, shaping
+#### Configure network devices for remote access using SSH
+#### Describe the capabilities and function of TFTP/FTP in the network
+
+## Security Fundamentals (15%)
+#### Define key security concepts (threats, vulnerabilities, exploits, and mitigation techniques)
+#### Describe security program elements (user awareness, training, and physical access control)
+#### Configure device access control using local passwords
+#### Describe security password policies elements, such as management, complexity, and password alternatives (multifactor authentication, certificates, and biometrics)
+#### Describe remote access and site-to-site VPNs
+#### Configure and verify access control lists
+#### Configure Layer 2 security features (DHCP snooping, dynamic ARP inspection, and port security)
+#### Differentiate authentication, authorization, and accounting concepts
+#### Describe wireless security protocols (WPA, WPA2, and WPA3)
+#### Configure WLAN using WPA2 PSK using the GUI
+
+## Automation and Programmability (10%)
+#### Explain how automation impacts network management
+#### Compare traditional networks with controller-based networking
+#### Describe controller-based and software defined architectures (overlay, underlay, and fabric)
+* Separation of control plane and data plane
+* North-bound and south-bound APIs
+#### Compare traditional campus device management with Cisco DNA Center enabled device management
+#### Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding)
+#### Recognize the capabilities of configuration management mechanisms Puppet, Chef, and Ansible
+#### Interpret JSON encoded data
