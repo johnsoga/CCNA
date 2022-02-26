@@ -73,7 +73,34 @@
 #### Describe AP and WLC management access connections (Telnet, SSH, HTTP,HTTPS, console, and TACACS+/RADIUS)
 #### Configure the components of a wireless LAN access for client  connectivity using GUI only such as WLAN creation, security settings, QoS profiles, and advanced WLAN settings
 
-## IP Connectivity
+## IP Connectivity (25%)
+#### Interpret the components of routing table
+* Routing protocol code
+* Prefix
+* Network mask
+* Next hop
+* Administrative distance
+* Metric
+* Gateway of last resort
+
+#### Determine how a router makes a forwarding decision by default
+* Longest match
+* Administrative distance
+* Routing protocol metric
+
+#### Configure and verify IPv4 and IPv6 static routing
+* Default route
+* Network route
+* Host route
+* Floating static
+
+#### Configure and verify single area OSPFv2
+* Neighbor adjacencies
+* Point-to-point
+* Broadcast (DR/BDR selection)
+* Router ID
+
+#### Describe the purpose of first hop redundancy protocol
 ## IP Services
 ## Security Fundamentals
 ## Automation and Programmability
