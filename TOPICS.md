@@ -1,6 +1,9 @@
 # CCNA Topics
 
 [Cisco Reference](https://learningnetwork.cisco.com/s/ccna-exam-topics)
+
+Version: CCNA Exam v1.0 (200-301)
+
 ## Network Fundamentals (20%)
 #### Explain the role and function of network components
 * Routers
