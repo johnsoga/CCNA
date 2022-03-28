@@ -15,4 +15,8 @@ Traditonally TCP/IP was defined as [4 Layer Model](https://en.wikipedia.org/wiki
 
 ![tcp_ip_4v5.svg](https://github.com/johnsoga/CCNA/blob/main/assests/tcp_ip_4v5.svg)
 
+### Connectivity
+
+![tcp_ip_encapsulation.svg](https://github.com/johnsoga/CCNA/blob/main/assests/tcp_ip_encapsulation.svg)
+
 [^CiscoPress]: Odom, W., 2020. CCNA 200-301 official cert guide. San Jose, CA: Cisco Press.
