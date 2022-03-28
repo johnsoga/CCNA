@@ -10,7 +10,7 @@ The TCP/IP model is broadly defined over [RFC 1122](https://datatracker.ietf.org
 
 ### Reference Model
 
-Traditonally TCP/IP was/is defined as [4 Layer Model](https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature), but more frequently/recently is being referenced seen as a 5 Layer Model [^CiscoPress]. This likely to make it easier to see the comparison with the OSI Model.
+Traditonally TCP/IP was/is defined as [4 Layer Model](https://en.wikipedia.org/wiki/Internet_protocol_suite#Layer_names_and_number_of_layers_in_the_literature), but more frequently/recently is being referenced as a 5 Layer Model [^CiscoPress]. This likely to make it easier to see the comparison with the OSI Model.
 
 ![tcp_ip_4v5.svg](https://github.com/johnsoga/CCNA/blob/main/assests/tcp_ip_4v5.svg)
 
